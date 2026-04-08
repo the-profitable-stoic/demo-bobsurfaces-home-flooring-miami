@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Bobsurfaces Home Flooring Miami",
+    "phone": "+17864394529",
+    "category": "flooring installer",
+    "city": "Miami",
+    "state": "FL"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-dark-premium",
+      "categoryGroup": "roofing",
+      "name": "Dark Premium",
+      "recipeFile": "roofing/dark-premium.astro",
+      "colors": {
+        "primary": "#FF6B35",
+        "primaryDark": "#E05A2B",
+        "primaryLight": "#FFD4C2",
+        "secondary": "#2A2A2A",
+        "accent": "#FF8C5A",
+        "background": "#1A1A1A",
+        "backgroundAlt": "#111111",
+        "surface": "#2A2A2A",
+        "text": "#F5F5F5",
+        "textLight": "#A0A0A0",
+        "textOnDark": "#FFFFFF",
+        "border": "#3A3A3A"
+      },
+      "typography": {
+        "headingFont": "Space Grotesk",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "glow"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "dark",
+          "surface",
+          "dark",
+          "surface",
+          "dark"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/dark-premium"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Miami's Flooring Authority",
+      "heroSubline": "Expert flooring installation and repair for homes and businesses. Dealing with Miami's unique challenges since 2012.",
+      "aboutTitle": "Decades of Flooring Expertise in the 305",
+      "aboutText": [
+        "Bobsurfaces Home Flooring Miami was founded on the principle of delivering top-quality flooring solutions with unwavering integrity. We saw a need for reliable, skilled installers who understand the specific demands of Miami's environment and architectural styles. What started as a small team has grown into a leading flooring contractor, serving the entire South Florida region.",
+        "Our approach is simple: meticulous craftsmanship, transparent communication, and a commitment to exceeding expectations. We don't cut corners. We use only the best materials and employ proven techniques to ensure lasting results. We're not satisfied until you are.",
+        "We're proud to be a part of the Miami community, and we believe in giving back. We regularly participate in local initiatives and support organizations that strengthen our neighborhoods. Choosing Bobsurfaces Home Flooring Miami means supporting a business that cares about its community."
+      ],
+      "valueProps": [
+        {
+          "title": "Miami-Tough Materials",
+          "description": "We source flooring built to withstand South Florida's heat, humidity, and potential flooding."
+        },
+        {
+          "title": "Expert Installation",
+          "description": "Our skilled installers handle any project with precision and care, from intricate patterns to large-scale commercial spaces."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "No hidden fees or surprises. We provide clear, detailed estimates and stick to our word."
+        },
+        {
+          "title": "Guaranteed Satisfaction",
+          "description": "We stand behind our work. If you're not happy, we'll make it right – that's our promise."
+        }
+      ],
+      "ctaHeadline": "Transform Your Space Today",
+      "ctaSubline": "Get a free estimate for your next flooring project. Call now to schedule your consultation."
+    },
+    "services": [
+      {
+        "slug": "tile-installation",
+        "name": "Tile Installation",
+        "shortDescription": "Durable and beautiful tile solutions for Miami homes and businesses.",
+        "description": "Tile is a classic choice for Miami, offering both style and resilience against moisture and wear. From porcelain and ceramic to natural stone and mosaic, we expertly install all types of tile for floors, walls, backsplashes, and showers. Our meticulous preparation ensures a flawless, long-lasting finish that can withstand the rigors of daily life in South Florida. We understand the importance of proper waterproofing in our humid climate, and we take every precaution to protect your investment. \n\nWhether you're renovating a historic Art Deco building in South Beach or updating a modern condo in Brickell, we have the expertise to handle any tile installation project. We work closely with you to select the perfect tile to complement your space and achieve your desired aesthetic. Our team is proficient in intricate patterns, custom designs, and large-format tile installations. \n\nWe handle everything from demolition and subfloor preparation to grout sealing and cleanup. Our goal is to provide a seamless, stress-free experience and deliver results that exceed your expectations. Trust Bobsurfaces Home Flooring Miami for all your tile installation needs.",
+        "process": [
+          "Step 1: Consultation & Design – Discuss your vision, explore tile options, and develop a custom design plan.",
+          "Step 2: Preparation – Meticulously prepare the subfloor to ensure a level and stable base for your tile.",
+          "Step 3: Installation – Expertly install your chosen tile with precision and attention to detail.",
+          "Step 4: Finishing & Sealing – Grout and seal the tile to protect against moisture and stains, ensuring long-lasting beauty."
+        ],
+        "benefits": [
+          "Enhances the beauty and value of your property",
+          "Provides a durable and low-maintenance flooring solution",
+          "Offers a wide range of styles and designs to suit any taste",
+          "Increases resistance to moisture, mold, and mildew"
+        ],
+        "faq": [
+          {
+            "question": "What type of tile is best for Miami's climate?",
+            "answer": "Porcelain tile is an excellent choice due to its water resistance and durability. Natural stone can also be a great option if properly sealed and maintained."
+          },
+          {
+            "question": "How long does tile installation typically take?",
+            "answer": "The timeline depends on the size and complexity of the project, but we always provide a clear estimate upfront. We prioritize efficiency without compromising quality."
+          },
+          {
+            "question": "Do you offer tile repair services?",
+            "answer": "Yes, we can repair cracked, chipped, or loose tiles to restore the beauty and functionality of your flooring."
+          }
+        ]
+      },
+      {
+        "slug": "hardwood-flooring",
+        "name": "Hardwood Flooring",
+        "shortDescription": "Bring warmth and elegance to your Miami home with hardwood floors.",
+        "description": "Hardwood flooring adds timeless beauty and value to any home. While Miami's humidity presents challenges, we specialize in installing hardwood floors that can withstand the local climate with proper care and maintenance. We offer a wide selection of hardwood species, finishes, and installation methods to suit your style and budget. From classic oak to exotic Brazilian cherry, we source only the highest-quality materials from trusted suppliers.\n\nWe understand the unique considerations for hardwood flooring in Miami, such as moisture barriers and proper acclimation. Our experienced installers take every precaution to ensure a stable and long-lasting installation. We also offer refinishing services to restore the luster of existing hardwood floors and protect them from wear and tear.\n\nWhether you're looking to create a cozy atmosphere in your Coconut Grove bungalow or add a touch of sophistication to your Coral Gables estate, Bobsurfaces Home Flooring Miami can help you achieve your vision. We provide expert guidance, meticulous craftsmanship, and a commitment to customer satisfaction.",
+        "process": [
+          "Step 1: Selection & Design – Choose the perfect hardwood species, finish, and installation pattern for your space.",
+          "Step 2: Acclimation – Allow the hardwood to acclimate to your home's humidity levels to prevent warping or cracking.",
+          "Step 3: Installation – Expertly install the hardwood flooring with precision and care.",
+          "Step 4: Finishing & Sealing – Apply a protective finish to enhance the beauty and durability of your hardwood floors."
+        ],
+        "benefits": [
+          "Adds warmth, elegance, and value to your home",
+          "Provides a durable and long-lasting flooring solution",
+          "Offers a wide range of styles and finishes to suit any taste",
+          "Can be refinished multiple times to extend its lifespan"
+        ],
+        "faq": [
+          {
+            "question": "Is hardwood flooring suitable for Miami's climate?",
+            "answer": "Yes, with proper installation and maintenance, hardwood floors can thrive in Miami. We recommend engineered hardwood for its added stability."
+          },
+          {
+            "question": "How often should I refinish my hardwood floors?",
+            "answer": "The frequency depends on foot traffic and wear, but typically every 7-10 years is recommended."
+          },
+          {
+            "question": "What is the best way to clean hardwood floors?",
+            "answer": "Use a damp mop with a pH-neutral cleaner specifically designed for hardwood floors. Avoid excessive water and harsh chemicals."
+          }
+        ]
+      },
+      {
+        "slug": "laminate-flooring",
+        "name": "Laminate Flooring",
+        "shortDescription": "Affordable and stylish laminate flooring options for Miami homes.",
+        "description": "Laminate flooring is a budget-friendly and durable alternative to hardwood, offering a wide range of styles and colors to complement any decor. It's an excellent choice for high-traffic areas and homes with pets or children. We source high-quality laminate flooring that is resistant to scratches, stains, and fading, ensuring long-lasting beauty and performance.\n\nOur experienced installers ensure a proper installation, paying close attention to subfloor preparation and moisture barriers. We understand the importance of a level and stable base for laminate flooring, and we take every precaution to prevent warping or buckling. We also offer a variety of trims and moldings to complete the look and provide a seamless transition between rooms.\n\nWhether you're renovating a rental property in Little Havana or updating a family home in Kendall, Bobsurfaces Home Flooring Miami can help you find the perfect laminate flooring solution. We offer expert guidance, competitive pricing, and a commitment to customer satisfaction.",
+        "process": [
+          "Step 1: Selection & Design – Choose the perfect laminate style, color, and thickness for your space.",
+          "Step 2: Subfloor Preparation – Ensure a level and stable subfloor for optimal laminate performance.",
+          "Step 3: Installation – Expertly install the laminate flooring with precision and care.",
+          "Step 4: Finishing & Trimming – Install trims and moldings to complete the look and provide a seamless transition."
+        ],
+        "benefits": [
+          "Provides an affordable and stylish flooring solution",
+          "Offers excellent durability and resistance to scratches and stains",
+          "Is easy to clean and maintain",
+          "Comes in a wide range of styles and colors"
+        ],
+        "faq": [
+          {
+            "question": "Is laminate flooring waterproof?",
+            "answer": "While laminate is water-resistant, it's not completely waterproof. We recommend choosing a water-resistant laminate for bathrooms and kitchens."
+          },
+          {
+            "question": "How long does laminate flooring typically last?",
+            "answer": "With proper care and maintenance, laminate flooring can last for 10-20 years."
+          },
+          {
+            "question": "Can I install laminate flooring myself?",
+            "answer": "While DIY installation is possible, we recommend professional installation to ensure a proper and long-lasting result."
+          }
+        ]
+      },
+      {
+        "slug": "vinyl-flooring",
+        "name": "Vinyl Flooring",
+        "shortDescription": "Waterproof and versatile vinyl flooring for Miami homes and businesses.",
+        "description": "Vinyl flooring is an excellent choice for Miami properties due to its exceptional water resistance and durability. Ideal for bathrooms, kitchens, and basements, vinyl withstands spills, humidity, and heavy foot traffic with ease. We offer a diverse selection of vinyl options, including luxury vinyl planks (LVP), vinyl sheets, and vinyl tiles, in a variety of styles, colors, and textures to complement any decor.\n\nOur skilled installers ensure a seamless and waterproof installation, paying meticulous attention to subfloor preparation and sealing. We understand the importance of preventing moisture intrusion in Miami's humid climate, and we take every precaution to protect your investment. We also offer expert advice on selecting the right vinyl flooring for your specific needs and budget.\n\nWhether you're renovating a waterfront condo in Miami Beach or updating a commercial space in Wynwood, Bobsurfaces Home Flooring Miami can provide you with top-quality vinyl flooring solutions. We are committed to delivering exceptional service and exceeding your expectations.",
+        "process": [
+          "Step 1: Selection & Design – Choose the perfect vinyl style, color, and thickness for your space.",
+          "Step 2: Subfloor Preparation – Ensure a level and clean subfloor for optimal vinyl adhesion.",
+          "Step 3: Installation – Expertly install the vinyl flooring with precision and care.",
+          "Step 4: Sealing & Finishing – Seal the edges and seams to prevent water damage and ensure a long-lasting finish."
+        ],
+        "benefits": [
+          "Provides a waterproof and durable flooring solution",
+          "Is ideal for bathrooms, kitchens, and basements",
+          "Is easy to clean and maintain",
+          "Comes in a wide range of styles and colors"
+        ],
+        "faq": [
+          {
+            "question": "Is vinyl flooring truly waterproof?",
+            "answer": "Yes, vinyl flooring is completely waterproof, making it an excellent choice for areas prone to moisture."
+          },
+          {
+            "question": "How long does vinyl flooring typically last?",
+            "answer": "With proper care and maintenance, vinyl flooring can last for 15-25 years."
+          },
+          {
+            "question": "Can vinyl flooring be installed over existing floors?",
+            "answer": "In many cases, yes. However, the existing floor must be level, clean, and in good condition."
+          }
+        ]
+      },
+      {
+        "slug": "flooring-repair",
+        "name": "Flooring Repair",
+        "shortDescription": "Expert flooring repair services to restore the beauty and safety of your Miami floors.",
+        "description": "Don't replace your entire floor when a simple repair can save you time and money. Bobsurfaces Home Flooring Miami offers expert flooring repair services for all types of flooring, including tile, hardwood, laminate, and vinyl. We can fix cracked tiles, loose planks, water damage, and other common flooring problems.\n\nOur experienced technicians will assess the damage and provide you with a cost-effective repair solution. We use high-quality materials and proven techniques to ensure a seamless and long-lasting repair. We understand the importance of matching the existing flooring to maintain the overall aesthetic of your space.\n\nWhether you have a damaged floor in your historic home in West Palm Beach or a commercial property in downtown Miami, Bobsurfaces Home Flooring Miami can help. We are committed to providing prompt, reliable, and affordable flooring repair services.",
+        "process": [
+          "Step 1: Assessment – Inspect the damage and determine the best repair solution.",
+          "Step 2: Preparation – Prepare the damaged area for repair.",
+          "Step 3: Repair – Repair or replace the damaged flooring materials.",
+          "Step 4: Finishing – Blend the repair seamlessly with the existing flooring."
+        ],
+        "benefits": [
+          "Saves you money compared to replacing the entire floor",
+          "Restores the beauty and safety of your flooring",
+          "Extends the lifespan of your existing floor",
+          "Prevents further damage and potential hazards"
+        ],
+        "faq": [
+          {
+            "question": "How much does flooring repair cost?",
+            "answer": "The cost depends on the extent of the damage and the type of flooring. We provide free estimates."
+          },
+          {
+            "question": "Can you match the existing flooring?",
+            "answer": "We make every effort to match the existing flooring as closely as possible."
+          },
+          {
+            "question": "How long does flooring repair take?",
+            "answer": "Most repairs can be completed in a day or two, depending on the complexity of the project."
+          }
+        ]
+      },
+      {
+        "slug": "commercial-flooring",
+        "name": "Commercial Flooring",
+        "shortDescription": "Durable and stylish commercial flooring solutions for Miami businesses.",
+        "description": "Bobsurfaces Home Flooring Miami provides comprehensive commercial flooring services for businesses throughout the Miami area. We understand the unique demands of commercial spaces, including high foot traffic, heavy equipment, and stringent safety requirements. We offer a wide range of durable and stylish flooring options, including vinyl, tile, epoxy, and concrete, to suit any business need.\n\nOur experienced team will work with you to select the perfect flooring solution for your specific requirements, taking into account factors such as durability, aesthetics, and budget. We provide expert installation services, ensuring a seamless and long-lasting result. We also offer ongoing maintenance and repair services to keep your commercial flooring looking its best.\n\nWhether you're outfitting a retail store in South Beach, an office building in Brickell, or a restaurant in Little Havana, Bobsurfaces Home Flooring Miami can provide you with top-quality commercial flooring solutions. We are committed to delivering exceptional service and exceeding your expectations.",
+        "process": [
+          "Step 1: Consultation & Planning – Discuss your business needs and develop a custom flooring plan.",
+          "Step 2: Material Selection – Choose the perfect flooring materials for your specific requirements.",
+          "Step 3: Professional Installation – Expertly install your commercial flooring with minimal disruption to your business.",
+          "Step 4: Ongoing Maintenance – Provide ongoing maintenance and repair services to keep your flooring looking its best."
+        ],
+        "benefits": [
+          "Enhances the appearance and functionality of your commercial space",
+          "Provides a durable and safe flooring surface",
+          "Increases property value",
+          "Creates a positive and professional environment"
+        ],
+        "faq": [
+          {
+            "question": "What type of flooring is best for a high-traffic commercial space?",
+            "answer": "Vinyl and epoxy flooring are excellent choices due to their durability and resistance to wear and tear."
+          },
+          {
+            "question": "Do you offer financing options for commercial flooring projects?",
+            "answer": "We offer flexible financing options to suit your budget. Contact us for details."
+          },
+          {
+            "question": "How long does commercial flooring installation typically take?",
+            "answer": "The timeline depends on the size and complexity of the project, but we always strive to minimize disruption to your business."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Fort Lauderdale",
+        "slug": "fort-lauderdale-fl",
+        "state": "FL",
+        "content": "Bobsurfaces Home Flooring Miami is proud to offer our expert flooring installation services to the residents of Fort Lauderdale. With a large stock of flooring options, we can help you find the perfect flooring to match your home's style. Whether you're looking for hardwood, laminate, tile, or carpet, we have the materials and expertise to handle any project, big or small. \n\nFort Lauderdale's unique blend of waterfront properties and mid-century modern homes requires a flooring solution that can withstand the year-round heat and humidity while complementing the architectural style. Bobsurfaces Home Flooring Miami specializes in selecting and installing flooring that is both durable and aesthetically pleasing, ensuring your investment lasts for years to come. We understand the specific needs of Fort Lauderdale homeowners.",
+        "localContext": "We understand the unique flooring needs of Fort Lauderdale homes, many of which feature waterfront properties from the 1960s and 70s and require moisture-resistant solutions to combat the year-round heat and humidity.",
+        "nearbyAreas": [
+          "Pompano Beach",
+          "Hollywood",
+          "Wilton Manors"
+        ]
+      },
+      {
+        "city": "Coral Springs",
+        "slug": "coral-springs-fl",
+        "state": "FL",
+        "content": "Bobsurfaces Home Flooring Miami extends its professional flooring services to Coral Springs, a vibrant planned community known for its well-maintained homes. We provide a wide array of flooring options to suit the diverse needs and preferences of Coral Springs residents. Our team is dedicated to delivering exceptional craftsmanship and customer satisfaction. \n\nAs a planned community developed in the 1980s and 90s, Coral Springs homes often feature modern designs. Bobsurfaces Home Flooring Miami can help you choose the perfect flooring to complement your home's style. We offer a variety of styles and materials, including durable, water-resistant options ideal for the Florida climate.",
+        "localContext": "We cater to the specific styles of Coral Springs homes, typically built in the 1980s and 90s as part of a planned community, offering flooring solutions that enhance their modern appeal and withstand the year-round heat and humidity.",
+        "nearbyAreas": [
+          "Parkland",
+          "Coconut Creek",
+          "Margate"
+        ]
+      },
+      {
+        "city": "Pembroke Pines",
+        "slug": "pembroke-pines-fl",
+        "state": "FL",
+        "content": "Bobsurfaces Home Flooring Miami is dedicated to providing top-quality flooring installation services to the residents of Pembroke Pines. We offer a wide selection of flooring materials, from classic hardwood to modern tile, ensuring we have the perfect solution for every home. Our experienced installers are committed to delivering exceptional results and exceeding customer expectations. \n\nPembroke Pines, with its abundance of planned developments from the 1990s, features a variety of architectural styles. Bobsurfaces Home Flooring Miami can help you find the perfect flooring to match your home's style. We offer a variety of styles and materials, including durable, water-resistant options ideal for the Florida climate.",
+        "localContext": "Understanding the planned developments prevalent in Pembroke Pines, largely built in the 1990s, we provide flooring options that seamlessly blend with these contemporary designs while addressing the challenges posed by year-round heat and humidity.",
+        "nearbyAreas": [
+          "Miramar",
+          "Hollywood",
+          "Davie"
+        ]
+      },
+      {
+        "city": "Boca Raton",
+        "slug": "boca-raton-fl",
+        "state": "FL",
+        "content": "Bobsurfaces Home Flooring Miami provides expert flooring installation services to the discerning residents of Boca Raton. We understand the unique needs of luxury waterfront estates and offer a curated selection of high-end flooring options. Our team is committed to delivering exceptional craftsmanship and unparalleled customer service. \n\nBoca Raton is known for its luxury waterfront estates. Bobsurfaces Home Flooring Miami specializes in selecting and installing flooring that is both elegant and durable, ensuring your investment lasts for years to come. We understand the specific needs of Boca Raton homeowners.",
+        "localContext": "We specialize in flooring solutions for Boca Raton's luxury waterfront estates, offering premium materials and expert installation to complement these high-end properties and withstand the demands of the year-round heat and humidity.",
+        "nearbyAreas": [
+          "Delray Beach",
+          "Deerfield Beach",
+          "Coconut Creek"
+        ]
+      },
+      {
+        "city": "West Palm Beach",
+        "slug": "west-palm-beach-fl",
+        "state": "FL",
+        "content": "Bobsurfaces Home Flooring Miami proudly serves the residents of West Palm Beach with professional and reliable flooring installation services. We offer a wide range of flooring options to suit any style and budget, from classic hardwood to modern tile. Our experienced team is dedicated to providing exceptional customer service and top-quality workmanship. \n\nWest Palm Beach is known for its historic homes dating back to the 1920s-50s. Bobsurfaces Home Flooring Miami can help you find the perfect flooring to match your home's style. We offer a variety of styles and materials, including durable, water-resistant options ideal for the Florida climate.",
+        "localContext": "We appreciate the architectural heritage of West Palm Beach, with its many historic homes from the 1920s-50s, and offer flooring options that honor these styles while providing durability against the year-round heat and humidity.",
+        "nearbyAreas": [
+          "Palm Beach Gardens",
+          "Lake Worth",
+          "Riviera Beach"
+        ]
+      },
+      {
+        "city": "Miami Gardens",
+        "slug": "miami-gardens-fl",
+        "state": "FL",
+        "content": "Bobsurfaces Home Flooring Miami is pleased to offer its flooring services to the residents of Miami Gardens. We strive to provide high-quality flooring solutions at competitive prices. Our team is dedicated to ensuring customer satisfaction and delivering exceptional results. \n\nMiami Gardens is a diverse community with a variety of home styles. Bobsurfaces Home Flooring Miami can help you find the perfect flooring to match your home's style. We offer a variety of styles and materials, including durable, water-resistant options ideal for the Florida climate.",
+        "localContext": "We provide a wide selection of flooring options for the diverse homes in Miami Gardens, ensuring we have something for every style and budget, with a focus on durability in the face of Florida's climate.",
+        "nearbyAreas": [
+          "North Miami",
+          "Pembroke Pines",
+          "Miramar"
+        ]
+      },
+      {
+        "city": "Hollywood",
+        "slug": "hollywood-fl",
+        "state": "FL",
+        "content": "Bobsurfaces Home Flooring Miami is committed to providing top-notch flooring installation services to the residents of Hollywood. We carry a large stock of flooring and can customize any order. Our team is dedicated to ensuring customer satisfaction and delivering exceptional results. \n\nHollywood is a community with a variety of home styles. Bobsurfaces Home Flooring Miami can help you find the perfect flooring to match your home's style. We offer a variety of styles and materials, including durable, water-resistant options ideal for the Florida climate.",
+        "localContext": "We understand the wide range of homes in Hollywood and offer flooring options that match every style and budget, while also being durable enough to withstand the heat and humidity of the Florida climate.",
+        "nearbyAreas": [
+          "Fort Lauderdale",
+          "Miramar",
+          "Davie"
+        ]
+      },
+      {
+        "city": "Miramar",
+        "slug": "miramar-fl",
+        "state": "FL",
+        "content": "Bobsurfaces Home Flooring Miami is dedicated to providing high-quality flooring installation services to the residents of Miramar. We offer a wide selection of flooring materials, from classic hardwood to modern tile, ensuring we have the perfect solution for every home. Our experienced installers are committed to delivering exceptional results and exceeding customer expectations. \n\nMiramar is a community with a variety of home styles. Bobsurfaces Home Flooring Miami can help you find the perfect flooring to match your home's style. We offer a variety of styles and materials, including durable, water-resistant options ideal for the Florida climate.",
+        "localContext": "We understand the wide range of homes in Miramar and offer flooring options that match every style and budget, while also being durable enough to withstand the heat and humidity of the Florida climate.",
+        "nearbyAreas": [
+          "Pembroke Pines",
+          "Hollywood",
+          "Miami Gardens"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria G.",
+        "rating": 5,
+        "service": "Tile Installation",
+        "text": "Bobsurfaces did an amazing job installing new tile in my kitchen. They were professional, efficient, and the quality of their work is outstanding. My new backsplash is gorgeous! Highly recommend them.",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Hardwood Flooring",
+        "text": "We had Bobsurfaces install hardwood floors in our living room. The floors look fantastic and really updated the space. There were a few minor delays, but they communicated well and made sure we were happy with the final result.",
+        "date": "2025-02-28"
+      },
+      {
+        "name": "Sarah L.",
+        "rating": 5,
+        "service": "Laminate Flooring",
+        "text": "Bobsurfaces installed laminate flooring in my rental property. The price was very reasonable, and the installation was quick and easy. The tenants love the new floors!",
+        "date": "2025-01-10"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Vinyl Flooring",
+        "text": "I hired Bobsurfaces to install vinyl flooring in my bathroom. They did an excellent job, and the flooring is completely waterproof. No more worries about leaks! The team was professional and cleaned up everything after themselves.",
+        "date": "2024-12-05"
+      },
+      {
+        "name": "Jennifer S.",
+        "rating": 4,
+        "service": "Flooring Repair",
+        "text": "Bobsurfaces repaired a cracked tile in my kitchen. They were able to match the existing tile perfectly, and the repair is seamless. Very happy with their service and would definitely use them again.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Robert C.",
+        "rating": 5,
+        "service": "Commercial Flooring",
+        "text": "We hired Bobsurfaces to install new flooring in our office building. They were professional, efficient, and the quality of their work is excellent. The new floors look great and have really brightened up the space.",
+        "date": "2024-10-12"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Miami Flooring Installation | Bobsurfaces",
+        "description": "Expert flooring services in Miami, FL. Tile, hardwood, laminate, vinyl. Free estimates. Call +17864394529."
+      },
+      "about": {
+        "title": "About Bobsurfaces Flooring Miami",
+        "description": "Learn about Bobsurfaces Home Flooring Miami, our values, and our commitment to quality flooring services in the Miami area."
+      },
+      "services": {
+        "title": "Flooring Services | Bobsurfaces Miami",
+        "description": "Comprehensive flooring services in Miami. Tile, hardwood, laminate, vinyl installation and repair. Get a free quote today!"
+      },
+      "contact": {
+        "title": "Contact Bobsurfaces Flooring Miami",
+        "description": "Contact Bobsurfaces Home Flooring Miami for a free estimate on your next flooring project. Call +17864394529 or fill out our online form."
+      },
+      "reviews": {
+        "title": "Bobsurfaces Flooring Miami Reviews",
+        "description": "Read reviews from satisfied customers of Bobsurfaces Home Flooring Miami. See why we're the trusted choice for flooring in Miami."
+      },
+      "service-areas": {
+        "title": "Bobsurfaces Service Areas",
+        "description": "Bobsurfaces Home Flooring Miami serves Miami, Fort Lauderdale, Coral Springs, Pembroke Pines, Boca Raton, and West Palm Beach."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "tile-installation": "/images/service-tile-installation.webp",
+      "hardwood-flooring": "/images/service-hardwood-flooring.webp",
+      "laminate-flooring": "/images/service-laminate-flooring.webp",
+      "vinyl-flooring": "/images/service-vinyl-flooring.webp",
+      "flooring-repair": "/images/service-flooring-repair.webp",
+      "commercial-flooring": "/images/service-commercial-flooring.webp"
+    },
+    "servicesResponsive": {
+      "tile-installation": {
+        "src": "/images/service-tile-installation.webp",
+        "srcset": "/images/service-tile-installation-400w.webp 400w, /images/service-tile-installation-800w.webp 800w, /images/service-tile-installation-1200w.webp 1200w, /images/service-tile-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "hardwood-flooring": {
+        "src": "/images/service-hardwood-flooring.webp",
+        "srcset": "/images/service-hardwood-flooring-400w.webp 400w, /images/service-hardwood-flooring-800w.webp 800w, /images/service-hardwood-flooring-1200w.webp 1200w, /images/service-hardwood-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "laminate-flooring": {
+        "src": "/images/service-laminate-flooring.webp",
+        "srcset": "/images/service-laminate-flooring-400w.webp 400w, /images/service-laminate-flooring-800w.webp 800w, /images/service-laminate-flooring-1200w.webp 1200w, /images/service-laminate-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "vinyl-flooring": {
+        "src": "/images/service-vinyl-flooring.webp",
+        "srcset": "/images/service-vinyl-flooring-400w.webp 400w, /images/service-vinyl-flooring-800w.webp 800w, /images/service-vinyl-flooring-1200w.webp 1200w, /images/service-vinyl-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "flooring-repair": {
+        "src": "/images/service-flooring-repair.webp",
+        "srcset": "/images/service-flooring-repair-400w.webp 400w, /images/service-flooring-repair-800w.webp 800w, /images/service-flooring-repair-1200w.webp 1200w, /images/service-flooring-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "commercial-flooring": {
+        "src": "/images/service-commercial-flooring.webp",
+        "srcset": "/images/service-commercial-flooring-400w.webp 400w, /images/service-commercial-flooring-800w.webp 800w, /images/service-commercial-flooring-1200w.webp 1200w, /images/service-commercial-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}

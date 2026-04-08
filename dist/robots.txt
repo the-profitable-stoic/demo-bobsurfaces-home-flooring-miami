@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-bobsurfaces-home-flooring-miami.dream-surge.com/sitemap-index.xml
